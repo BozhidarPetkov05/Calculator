@@ -1,8 +1,8 @@
 # Calculator
-#Simple calculator which can divide, multiply, subtraction and addition
-#Path:
-#Calculator\bin\Debug\net6.0\Calculator.exe"
-#How to use:
+Simple calculator which can divide, multiply, subtraction and addition
+Path:
+Calculator\bin\Debug\net6.0\Calculator.exe"
+How to use:
 1. Open the .exe
 2. Answer the question with 'y' or 'n'
 3. Type in your equation with space between numbers and operations
